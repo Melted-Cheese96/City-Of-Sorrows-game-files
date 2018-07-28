@@ -3,10 +3,43 @@ from time import sleep
 
 
 def LeftTunnel(Player):
-    pass
-
+    while True:
+        print('The tunnel seems to drop off down a hole')
+        sleep(1)
+        print('You can hear the police above so you decide to jump down the hole')
+        sleep(1)
+        print('THUD!!')
+        sleep(1)
+        print('You hit the bottom of this hole and you can hardly see what is there')
+        print("However, you can hear running water, there seems to be another tunnel, do you go through that tunne;?")
+        tunnelpt1 = input()
+        if tunnelpt1 == 'yes':
+            print('You enter the tunnel')
+            sleep(1)
+        elif tunnelpt1 == 'no':
+            print('You decide not to go there, all of a sudden the floor starts opening')
+            sleep(1)
+            print('You fall down....')
+            sleep(1)
+            print('A few hours later....')
+            sleep(1)
+            print('It seems that you landed in a dungeon of sorts')
+            sleep(1)
+            print('The air smells really rank and whatnot')
+            sleep(1)
+            print("You are near a table, on the table is a sword and a pistol, which one do you take?")
+            sleep(1)
+            tunnelpt2 = input()
+            if tunnelpt2.lower() == 'sword':
+                pass
+            elif tunnelpt2.lower() == 'pistol'
+            
+            else:
+                print('Error, did you type everything right?')
+    else:
+        print('Error, did you type everything right?')
 def RightTunnel(Player):
-    pass
+    print('You seem to be approaching a turn in the tunne;')
 
 
 

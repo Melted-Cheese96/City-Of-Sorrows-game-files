@@ -1,0 +1,33 @@
+Changes for City of sorrows:
+
+
+# REMINDERS FROM 24/8/18: Fix the bug in park
+# Reminders from 26/8/18: Play through game and note and fix the bugs that may happen.
+# Reminders from 29/8/18: Improve on the tavern fight with the new improved combat system
+# Optional Reminders from 2/9/18: Do a massive overhaul to the source code, clean up all the functions and remove unecessary functions.
+# Reminders from 2/9/18: Bug in the park, error report: When getting the wrong answer in the park the program acts as if you just arrived at the park.
+# Reminders from 2/9/18: Fix combat system in tavern
+
+
+# Bug report from 2/9/18: Error in the tavern fight where the thugs will always beat you when you have picked up the stick
+
+
+# Changelog 21/6/18 Added money/gold system, continued storyline, added a remove money system.
+# Changelog 22/6/18: Fixed up the tavern bug, major overhaul
+# Changelog 24/8/18: Started on the gun investigation storyline.
+# Changelog 25/8/18: Did an overhaul to the fight scene that happens after you leave the tavern. Included a weapon when you first start off. Encased some things in while loops incase of user-error.
+# Changelog 26/8/18: Added many changes such as progressing the tavern storyline a little bit further, there is an actual story line that happens after you walk away from the thugs that try to fight player at tavern. Mostly just continued with the story line.
+# Changelog 27/8/18: Progressed the tavern storyline, started fixing up the park storyline, as of writing this every element in the park is working. a
+# Changelog 28/8/18: Started working on the combat system.
+# Changelog 2/9/18: Fixed up some stuff, edited a bit.
+# Changelog 2/9/18: Fleshed out the quest that was located in the park, you now have more things to look at and do. You can find the ball and give it back to the child. General Bug Fixes.
+
+# Changelog 3/9/18: Worked on the story.
+# Changelog 18/9/18: Too many changes to note
+
+
+	
+21/7/18: Made a new file called 'BallQuest.py' which has all the functions for the ballquest.
+
+27/7/18: Started re-writing the combat system so it's usable in all fights and not just the tavern one. Minor changes to story.
+Started working on the police mission, which takes place after the tavern fight.
